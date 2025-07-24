@@ -20,8 +20,8 @@ Manually merging Excel files is repetitive and error-prone. This macro tool auto
 
 | File Name                                 | Description |
 |-------------------------------------------|-------------|
-| `ConsolidationTool.xlsm`                  | The main macro-enabled Excel workbook that consolidates data from multiple files |
-| `Customer report.xlsx`                    | Sample input data used for testing the consolidation process |
+| [📥 ConsolidationTool.xlsm](https://github.com/RamKarthi-Data-Analyst/Consolidation-Tool/blob/main/Consolidation%2BTool.xlsm)| The main macro-enabled Excel workbook that consolidates data from multiple files |
+| [📂 Input Folder](https://github.com/RamKarthi-Data-Analyst/Consolidation-Tool/blob/main/Input.zip)| Sample input folder used for testing the consolidation process |
 
 ## 💡 Achievements
 - Created reusable macro: `ConsolidateDataFromFolder`
