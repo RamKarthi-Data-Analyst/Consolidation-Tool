@@ -22,6 +22,8 @@ Manually merging Excel files is repetitive and error-prone. This macro tool auto
 |-------------------------------------------|-------------|
 | [📥 ConsolidationTool.xlsm](https://github.com/RamKarthi-Data-Analyst/Consolidation-Tool/blob/main/Consolidation%2BTool.xlsm)| The main macro-enabled Excel workbook that consolidates data from multiple files |
 | [📂 Input Folder](https://github.com/RamKarthi-Data-Analyst/Consolidation-Tool/blob/main/Input.zip)| Sample input folder used for testing the consolidation process |
+| [📥 VBA_Consolidation_Tool_Presentation.pptx](https://github.com/RamKarthi-Data-Analyst/Consolidation-Tool/blob/main/VBA_Consolidation_Tool_Presentation.pptx)| Clean, structured PowerPoint deck |
+| [📥 VBA_Consolidation_Tool_Summary.pdf](https://github.com/RamKarthi-Data-Analyst/Consolidation-Tool/blob/main/VBA_Consolidation_Tool_Summary.pdf)| One-page PDF summary describing the tool |
 
 ## 💡 Achievements
 - Created reusable macro: `ConsolidateDataFromFolder`
